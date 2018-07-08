@@ -2,7 +2,7 @@
     "name": "nature",
     "displayName": "Nature",
     "description": "A vs code dark theme.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "icon": "icon.png",
     "publisher": "sunreal",
     "engines": {
