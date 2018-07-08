@@ -1,4 +1,4 @@
-# Nature -- vs code theme
+# Nature - vs code theme
 ![demo js](https://raw.githubusercontent.com/jacobsun/Nature/master/demo_js.png "demo js")
 
 ## Install
