@@ -3,6 +3,7 @@
     "displayName": "Nature",
     "description": "A vs code dark theme.",
     "version": "0.0.1",
+    "icon": "icon.png",
     "publisher": "sunreal",
     "engines": {
         "vscode": "^1.24.0"
