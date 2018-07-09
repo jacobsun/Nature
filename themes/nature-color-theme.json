@@ -236,9 +236,9 @@
 		{
 			"name": "debug",
 			"scope": [
-				"keyword.other.debugger.js",
-				"support.class.console.js",
-				"support.function.console.js"
+				"keyword.other.debugger",
+				"support.class.console",
+				"support.function.console"
 			],
 			"settings": {
 				"foreground": "#E08B7E",
