@@ -21,7 +21,7 @@
 		"inputOption.activeBorder": "#ACD474",
 		"inputValidation.warningBorder": "#E08B7E",
 		"button.background": "#171717",
-		"button.foreground": "#ACD474",
+		"button.foreground": "#CCCCCC",
 		"button.hoverBackground": "#242424",
 		"list.dropBackground": "#171717",
 		"list.hoverBackground": "#242424",
