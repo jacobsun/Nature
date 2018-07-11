@@ -125,6 +125,8 @@
 				"keyword.package",
 				"keyword.import",
 				"support.type.object.module",
+				"meta.object-literal.key",
+				"entity.other.attribute-name.html",
 			],
 			"settings": {
 				"foreground": "#CCCCCC",
@@ -188,7 +190,6 @@
 			"scope": [
 				"variable",
 				"support.class",
-				"meta.object-literal.key",
 				"entity.name.type.class.js",
 				"entity.name.type.class.ts",
 				"entity.name.type.module.ts",
@@ -202,7 +203,6 @@
 				"meta.function-call",
 				"support.function",
 				"support.variable.property",
-				"entity.other.attribute-name.html",
 				"support.type.vendored.property-name",
 				"variable.css",
 				"variable.scss",
@@ -255,7 +255,7 @@
 				"meta.tag.structure.any.html",
 				"meta.tag.inline.any.html",
 				"keyword.other.unit",
-				"punctuation.definition.entity.css"
+				"punctuation.definition.entity.css",
 			],
 			"settings": {
 				"foreground": "#7ED3E6",
